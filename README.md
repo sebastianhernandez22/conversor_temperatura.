@@ -1,2 +1,9 @@
-# conversor_temperatura.
-programa para convertir una cantidad dada de grados centigrados a su equivalente en Farenheit y Kelvin
+## Programa para convertir una catidad dada de grados centigrados a s equivalente en Farenheit y kelvin
+
+
+
+# DISEÑO
+
+## Diagrama de flujo
+
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
